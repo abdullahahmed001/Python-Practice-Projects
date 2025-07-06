@@ -1,4 +1,4 @@
-This repository contains simple Python practice projects for the purpose of improving Python programming skills. The project is a public repository on GitHub, created by the user abdullahahmed001.
+This repository contains simple Python practice projects for the purpose of improving Python programming skills. 
 
 Main Function Points
 The repository contains a collection of Python practice projects
